@@ -42,6 +42,6 @@ The concept of RFM (Recency, Frequency, Monetary) analysis was explained, highli
 * Subqueries and XML path analysis were employed to determine which products were frequently sold together. 
 * The product codes of orders with multiple items were analyzed to identify patterns of products sold together.
 
-# [Tableau Visualization]([https://www.example.com](https://public.tableau.com/app/profile/leon.jose/viz/RFMAnalysisSalesDashboard1/RFMAnalysisDashboard1))
+# [Tableau Visualization](https://public.tableau.com/app/profile/leon.jose/viz/RFMAnalysisSalesDashboard1/RFMAnalysisDashboard1)
 * Multiple worksheets were created to depict different aspects of the data, including sales distribution, deal size distribution, sales by year, revenue by country, and sales by product line. 
 * A comprehensive dashboard was developed by combining these worksheets and customizing their appearance. 
