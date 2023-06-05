@@ -47,3 +47,4 @@ The concept of RFM (Recency, Frequency, Monetary) analysis was explained, highli
 * A comprehensive dashboard was developed by combining these worksheets and customizing their appearance. 
 ![rfm analysis dashboard 1](https://github.com/no37no37/rfm_analysis_sql/assets/132648428/c01347f3-756f-4a26-aba7-34a2e887515f)
 
+![RFM ANALYSIS DASHBOARD 2](https://github.com/no37no37/rfm_analysis_sql/assets/132648428/266a5d7c-0e96-437b-ac78-9db99fd7d9ec)
