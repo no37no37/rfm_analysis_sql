@@ -45,3 +45,5 @@ The concept of RFM (Recency, Frequency, Monetary) analysis was explained, highli
 # [Tableau Visualization](https://public.tableau.com/app/profile/leon.jose/viz/RFMAnalysisSalesDashboard1/RFMAnalysisDashboard1)
 * Multiple worksheets were created to depict different aspects of the data, including sales distribution, deal size distribution, sales by year, revenue by country, and sales by product line. 
 * A comprehensive dashboard was developed by combining these worksheets and customizing their appearance. 
+![rfm analysis dashboard 1](https://github.com/no37no37/rfm_analysis_sql/assets/132648428/c01347f3-756f-4a26-aba7-34a2e887515f)
+
